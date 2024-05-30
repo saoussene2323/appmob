@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952968117213",
+    "project_id": "spac-d80e2",
+    "storage_bucket": "spac-d80e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952968117213:android:d4bf1764af03b433aa9434",
+        "android_client_info": {
+          "package_name": "com.example.spac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxRHpZLrWK5TnTJRN6Rg7BdLExs7vzz6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
